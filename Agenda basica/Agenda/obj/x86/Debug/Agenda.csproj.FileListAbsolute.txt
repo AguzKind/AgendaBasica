@@ -1,0 +1,19 @@
+C:\Poo\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Poo\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.Form1.resources
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Poo\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\Agenda.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Agenda\Agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Año 2019\Poo - Pini\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+E:\Año 2019\Poo - Pini\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
